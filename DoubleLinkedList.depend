@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1524468025 source:c:\users\tagut\documents\c++ projects\doublelinkedlist\student.cpp
+	<iostream>
+	<ctime>
+	<string>
+	<iomanip>
+	<cassert>
+	<cstdlib>
+	<cmath>
+	"Student.h"
+
+1524468025 c:\users\tagut\documents\c++ projects\doublelinkedlist\student.h
+	<iostream>
+	<string>
+	"Node.h"
+
+1524608523 source:c:\users\tagut\documents\c++ projects\doublelinkedlist\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cassert>
+	<ctime>
+	"Node.h"
+	"SortedBag.h"
+	"Student.h"
+
+1524475096 c:\users\tagut\documents\c++ projects\doublelinkedlist\node.h
+	<iostream>
+
+1524609525 c:\users\tagut\documents\c++ projects\doublelinkedlist\sortedbag.h
+	<cassert>
+	"Node.h"
+
+1524707192 source:c:\users\lab\desktop\doublelinkedlist\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cassert>
+	<ctime>
+	"Node.h"
+	"SortedBag.h"
+	"Student.h"
+
+1524475098 c:\users\lab\desktop\doublelinkedlist\node.h
+	<iostream>
+
+1524707067 c:\users\lab\desktop\doublelinkedlist\sortedbag.h
+	<cassert>
+	"Node.h"
+
+1524468026 c:\users\lab\desktop\doublelinkedlist\student.h
+	<iostream>
+	<string>
+	"Node.h"
+
+1524468026 source:c:\users\lab\desktop\doublelinkedlist\student.cpp
+	<iostream>
+	<ctime>
+	<string>
+	<iomanip>
+	<cassert>
+	<cstdlib>
+	<cmath>
+	"Student.h"
+
